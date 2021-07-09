@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Vatsal Mehta",
 	"description": "This project is for learning nodejs from freecodecamp",
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
